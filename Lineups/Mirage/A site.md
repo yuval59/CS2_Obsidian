@@ -1,2 +1,2 @@
 ## Jungle/Con
-![[JungleCon.png]]
+![[JungleConSmoke.png]]

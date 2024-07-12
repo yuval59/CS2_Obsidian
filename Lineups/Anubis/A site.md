@@ -1,4 +1,7 @@
-# Molly for entrance
+## Upper Molly
 ![[AUpperMolly.jpg]]
-# Smoke mid
-![[AMidSmoke.jpg]]
+## A Connector Smoke
+![[AConSmoke.jpg]]
+## Heaven Smoke
+Jumpthrow
+![[HeavenSmoke.png]]

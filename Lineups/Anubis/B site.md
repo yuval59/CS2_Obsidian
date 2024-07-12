@@ -1,6 +1,14 @@
-# Con Smoke
+# Spawn Smokes
+## Temple Smoke
 Jumpthrow
-![[BConSmoke.jpg]]
-# Temple Smoke
+![[TempleSmoke.jpg]]
+## B-Cross Smoke
 Jumpthrow
-![[BTempleSmoke.jpg]]
+![[BCrossSmoke.png]]
+# B-Main Smokes
+## Long Smoke
+![[LongSmoke.png]]
+## Temple Smoke
+![[BTempleSmoke.png]]
+## Con Smoke
+![[BConSmoke.png]]

@@ -2,19 +2,19 @@
 ## Window Smoke
 Jumpthrow
 Hold D for about half a second before throwing
-![[Pictures/Mirage/Window.png]]
+![[WindowSmoke.png]]
 ## Con Smoke
 Jumpthrow
-![[Con.png]]
+![[Pictures/Mirage/ConSmoke.png]]
 # Top-mid Smokes
 ## Window
-![[TopMidWindow.png]]
+![[TopMidWindowSmoke.png]]
 ## Short
-![[TopMidShort.png]]
+![[TopMidShortSmoke.png]]
 ## Jungle
-![[TopMidJungle.png]]
+![[TopMidJungleSmoke.png]]
 This is a more forgiving smoke, anything in this area should be fine.
-![[TopMidJungleForgiving.png]]
+![[TopMidJungleSmokeForgiving.png]]
 ## CT
 Jumpthrow
-![[TopMidCT.png]]
+![[TopMidCTSmoke.png]]

@@ -1,9 +1,9 @@
 ## Market Window
 Jumpthrow
-![[MarketWindow.png]]
+![[MarketWindowSmoke.png]]
 ## Market Door
 Jumpthrow
-![[MarketDoor.png]]
+![[MarketDoorSmoke.png]]
 ## Short
 Pretty unforgiving tbh
-![[Short.png]]
+![[ShortSmoke.png]]
