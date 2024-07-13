@@ -1,15 +1,18 @@
-# Spawn Smokes
-## Con Smoke
+# T Smokes
+## Spawn Smokes
+### Con Smoke
 Jumpthrow
 ![[Pictures/Anubis/ConSmoke.png]]
-## Mid Smoke
+### Mid Smoke
 Jumpthrow
 ![[MidSmoke.png]]
-# Mid Towards B
-## A Connector
+## Mid Towards B
+### A Connector
 Jumpthrow
 ![[MidAConSmoke.png]]
-# Mid Towards A
-## Deep Mid
+## Mid Towards A
+### Deep Mid
 Jumpthrow
 ![[DeepMidSmoke.png]]
+# CT Smokes
+# Retake Smokes

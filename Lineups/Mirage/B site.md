@@ -1,9 +1,13 @@
-## Market Window
+# T Smokes
+## Spawn Smokes
+### Market Window
 Jumpthrow
 ![[MarketWindowSmoke.png]]
-## Market Door
+### Market Door
 Jumpthrow
 ![[MarketDoorSmoke.png]]
-## Short
+### Short
 Pretty unforgiving tbh
 ![[ShortSmoke.png]]
+# CT Smokes
+# Retake Smokes
