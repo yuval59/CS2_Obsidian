@@ -20,6 +20,7 @@
 - Have a plan for when things start to go sour
 - If a teammate decides to call a strat, go along with it
 # After Game
-- Practice lineups you've failed
+- Practice lineups I've failed
 - If no lineups/incomplete lineups, update the map files
 - If aim felt bad, play 2 deathmatch games
+- If I didn't know any callouts, check what they are
