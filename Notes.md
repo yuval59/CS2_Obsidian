@@ -8,3 +8,11 @@ This is for misc. notes, meant to be written here every so often about specific 
 - My aim feels worse than yesterday, having some trouble adjusting to the lower eDPI (960 -> 640)
 - Much like the video's advice, I did make this whole Obsidian vault tho, because I do think making this from scratch myself is gonna be more effective and I much prefer Obsidian over Google Docs for this usecase
 - `Couple hours later` I played some more games and my aim feels weird, I started the game playing like complete and utter ass, and by the end I was headshotting people left and right. I think it's getting better, guess we'll see.
+## 13/7/2024
+- I changed the aim warm-up routine a little, and I don't know whether it's this or just because I'm starting to adjust to the new sensitivity, but my aim has been pretty good
+- On a less good note, my teammates seem genuinely awful and I'm finding it difficult to keep calm and keep the round together when the team's just going random places and dying, particularly on CT side. I think I need to start calling strats when we start losing to get us back into the groove maybe. When the whole team is just silent and we're losing round after round the game becomes very difficult.
+- Also, I added a lot of Inferno smokes to the lineups
+- I played Ancient, which has no lineups yet. I should probably add those.
+- One thing to note here, I have a lot of T-sided smokes but literally 0 lineups for the CT-side - including retake utility. I'll try to improve on that this week.
+
+- I think I'm gonna try and update my lineups with CT-sided stuff next, before adding new maps. At the very least, some retake utility.
