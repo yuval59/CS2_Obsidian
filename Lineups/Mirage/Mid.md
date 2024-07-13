@@ -20,4 +20,3 @@ This is a more forgiving smoke, anything in this area should be fine.
 Jumpthrow
 ![[TopMidCTSmoke.png]]
 # CT Smokes
-# Retake Smokes

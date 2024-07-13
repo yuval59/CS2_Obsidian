@@ -15,4 +15,3 @@ Jumpthrow
 Jumpthrow
 ![[DeepMidSmoke.png]]
 # CT Smokes
-# Retake Smokes

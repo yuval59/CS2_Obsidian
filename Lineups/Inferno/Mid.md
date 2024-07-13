@@ -9,4 +9,3 @@ You wanna align yourself on this wall towards the left side, kinda like this pic
 Jumpthrow
 ![[TopMidSmoke.png]]
 # CT Smokes
-# Retake Smokes
