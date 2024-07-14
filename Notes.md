@@ -16,3 +16,8 @@ This is for misc. notes, meant to be written here every so often about specific 
 - One thing to note here, I have a lot of T-sided smokes but literally 0 lineups for the CT-side - including retake utility. I'll try to improve on that this week.
 
 - I think I'm gonna try and update my lineups with CT-sided stuff next, before adding new maps. At the very least, some retake utility.
+## 14/7/2024
+- I've been busy with many real-life things, so no stream or really any amount of CS today.
+- To keep up the daily grind, I practiced my aim quite extensively - I've started using aim_treeni (which is very good). Did several time-challenges, using moving targets, stationary, cross-mode, insane-mode, hit 1000 targets in level 2 using size 3, and finished it with a 50 time trial on a scar (to practice awp aim without reloading) using cross mode.
+- I've spent well over 30 minutes just on that, and I've hit several thousand targets during this time, so I feel like that's almost compensation enough for not playing today.
+- I also practiced my lineups, and made sure I know all of them.
