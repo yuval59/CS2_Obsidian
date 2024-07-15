@@ -1,4 +1,4 @@
-# T Smokes
+# T Lineups
 ## Upper Molly
 ![[AUpperMolly.jpg]]
 ## A Connector Smoke
@@ -6,5 +6,5 @@
 ## Heaven Smoke
 Jumpthrow
 ![[HeavenSmoke.png]]
-# CT Smokes
-# Retake Smokes
+# CT Lineups
+# Retake Lineups

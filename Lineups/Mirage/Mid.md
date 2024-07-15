@@ -1,5 +1,5 @@
-# T Smokes
-## Spawn Smokes
+# T Lineups
+## Spawn Lineups
 ### Window Smoke
 Jumpthrow
 Hold D for about half a second before throwing
@@ -7,16 +7,16 @@ Hold D for about half a second before throwing
 ### Con Smoke
 Jumpthrow
 ![[Pictures/Mirage/ConSmoke.png]]
-## Top-mid Smokes
-### Window
+## Top-mid Lineups
+### Window Smoke
 ![[TopMidWindowSmoke.png]]
-### Short
+### Short Smoke
 ![[TopMidShortSmoke.png]]
-### Jungle
+### Jungle Smoke
 ![[TopMidJungleSmoke.png]]
 This is a more forgiving smoke, anything in this area should be fine.
 ![[TopMidJungleSmokeForgiving.png]]
-### CT
+### CT Smoke
 Jumpthrow
 ![[TopMidCTSmoke.png]]
-# CT Smokes
+# CT Lineups

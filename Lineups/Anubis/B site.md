@@ -1,17 +1,20 @@
-# T Smokes
-## Spawn Smokes
+# T Lineups
+## Spawn Lineups
 ### Temple Smoke
 Jumpthrow
 ![[TempleSmoke.jpg]]
-### B-Cross Smoke
+### Cross Smoke
 Jumpthrow
 ![[BCrossSmoke.png]]
-## B-Main Smokes
+### Lurk Smoke
+Jumpthrow
+![[Pictures/Anubis/BLurkSmoke.png]]
+## B-Main Lineups
 ### Long Smoke
 ![[LongSmoke.png]]
 ### Temple Smoke
 ![[BTempleSmoke.png]]
 ### Con Smoke
 ![[BConSmoke.png]]
-# CT Smokes
-# Retake Smokes
+# CT Lineups
+# Retake Lineups

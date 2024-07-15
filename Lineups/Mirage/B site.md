@@ -1,13 +1,13 @@
-# T Smokes
-## Spawn Smokes
-### Market Window
+# T Lineups
+## Spawn Lineups
+### Market Window Smoke
 Jumpthrow
 ![[MarketWindowSmoke.png]]
-### Market Door
+### Market Door Smoke
 Jumpthrow
 ![[MarketDoorSmoke.png]]
-### Short
+### Short Smoke
 Pretty unforgiving tbh
 ![[ShortSmoke.png]]
-# CT Smokes
-# Retake Smokes
+# CT Lineups
+# Retake Lineups

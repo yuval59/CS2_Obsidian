@@ -1,5 +1,5 @@
-# T Smokes
-## Spawn Smokes
+# T Lineups
+## Spawn Lineups
 ### Car Smoke
 Jumpthrow
 ![[CarSmoke.png]]
@@ -8,4 +8,4 @@ You wanna align yourself on this wall towards the left side, kinda like this pic
 ### Top Mid Smoke
 Jumpthrow
 ![[TopMidSmoke.png]]
-# CT Smokes
+# CT Lineups

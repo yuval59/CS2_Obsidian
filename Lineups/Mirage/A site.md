@@ -1,11 +1,15 @@
-# T Smokes
-## Spawn Smokes
-### Jungle/Con
+# T Lineups
+## Spawn Lineups
+### Jungle/Con Smoke
 Jumpthrow
 ![[JungleConSmoke.png]]
-### Stairs
+### Stairs Smoke
 Middleclick (Both buttons)
 Jumpthrow
 ![[StairsSmoke.png]]
-# CT Smokes
-# Retake Smokes
+### Temple Lurk Smoke
+> This smoke hides you from stairs and site, letting you peak the temple corner area, then stairs from the edge of the smoke, and then drop down into the site
+
+![[TempleLurkSmoke.png]]
+# CT Lineups
+# Retake Lineups

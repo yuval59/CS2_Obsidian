@@ -1,6 +1,6 @@
-# T Smokes
-## Spawn Smokes
-## Banana Smokes
+# T Lineups
+## Spawn Lineups
+## Banana Lineups
 ### CT Waterfall Smoke
 ![[CTBoostSmoke.png]]
 Alternative lineup
@@ -8,6 +8,6 @@ Alternative lineup
 ### Coffins Smoke
 Jumpthrow
 ![[CoffinsSmoke.png]]
-# CT Smokes
-# Retake Smokes
+# CT Lineups
+# Retake Lineups
 

@@ -1,6 +1,6 @@
-# T Smokes
-## Spawn Smokes
-## Second Mid Smokes
+# T Lineups
+## Spawn Lineups
+## Second Mid Lineups
 ### Library Smoke
 Jumpthrow
 ![[LibrarySmoke.png]]
@@ -17,10 +17,14 @@ Crouch
 `Long Smoke?`
 Runthrow
 ![[ArchSideSmoke.png]]
-## Top Mid Smokes
+## Top Mid Lineups
 ### MOTO Smoke
 This smoke is super forgiving, just line up the general area.
 ![[MotoSmokeTopMid.png]]
+## Apps Lineups
+### Top Van Smoke
+ > Lets you peak pit from balcony without worrying about long/site
 
-# CT Smokes
-# Retake Smokes
+![[TopVanSmoke.png]]
+# CT Lineups
+# Retake Lineups
