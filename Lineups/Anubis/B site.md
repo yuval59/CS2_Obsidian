@@ -11,7 +11,7 @@ Jumpthrow
 ![[Pictures/Anubis/BLurkSmoke.png]]
 ## B-Main Lineups
 ### Long Smoke
-![[LongSmoke.png]]
+![[Pictures/Anubis/LongSmoke.png]]
 ### Temple Smoke
 ![[BTempleSmoke.png]]
 ### Con Smoke
