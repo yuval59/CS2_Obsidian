@@ -14,4 +14,7 @@ Jumpthrow
 ### Deep Mid Smoke
 Jumpthrow
 ![[DeepMidSmoke.png]]
+### Con Smoke
+Jumpthrow
+![[MidConSmoke.png]]
 # CT Lineups
