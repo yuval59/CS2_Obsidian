@@ -21,3 +21,8 @@ This is for misc. notes, meant to be written here every so often about specific 
 - To keep up the daily grind, I practiced my aim quite extensively - I've started using aim_treeni (which is very good). Did several time-challenges, using moving targets, stationary, cross-mode, insane-mode, hit 1000 targets in level 2 using size 3, and finished it with a 50 time trial on a scar (to practice awp aim without reloading) using cross mode.
 - I've spent well over 30 minutes just on that, and I've hit several thousand targets during this time, so I feel like that's almost compensation enough for not playing today.
 - I also practiced my lineups, and made sure I know all of them.
+## 18/7/2024
+- I've been sick since the 14th, so I haven't been keeping up with streams or notes, but I have kept grinding.
+- I haven't played Premier, but I've played comps and I've done lineups and aim training.
+- I added recoil training yesterday, and I feel it helps a lot
+- I've been feeling pretty good in-game for the past couple days, I think this is helping quite a bit. I've top-fragged or at least middle-fragged pretty consistently. I think the lineups are helping quite a lot in-game too, just knowing I can smoke whatever I want and knowing spots and such is very useful
