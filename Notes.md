@@ -18,7 +18,7 @@ This is for misc. notes, meant to be written here every so often about specific 
 - I think I'm gonna try and update my lineups with CT-sided stuff next, before adding new maps. At the very least, some retake utility.
 ## 14/7/2024
 - I've been busy with many real-life things, so no stream or really any amount of CS today.
-- To keep up the daily grind, I practiced my aim quite extensively - I've started using aim_treeni (which is very good). Did several time-challenges, using moving targets, stationary, cross-mode, insane-mode, hit 1000 targets in level 2 using size 3, and finished it with a 50 time trial on a scar (to practice awp aim without reloading) using cross mode.
+- To keep up the daily grind, I practiced my aim quite extensively - I've started using aim_treeni (which is very good). Did several time-challenges, using moving targets, stationary, cross-mode, insane-mode, hit 1000 targets in level 2 using size 3, and finished it with a 50 time trial on a scar (to practice AWP aim without reloading) using cross mode.
 - I've spent well over 30 minutes just on that, and I've hit several thousand targets during this time, so I feel like that's almost compensation enough for not playing today.
 - I also practiced my lineups, and made sure I know all of them.
 ## 18/7/2024
@@ -26,3 +26,13 @@ This is for misc. notes, meant to be written here every so often about specific 
 - I haven't played Premier, but I've played comps and I've done lineups and aim training.
 - I added recoil training yesterday, and I feel it helps a lot
 - I've been feeling pretty good in-game for the past couple days, I think this is helping quite a bit. I've top-fragged or at least middle-fragged pretty consistently. I think the lineups are helping quite a lot in-game too, just knowing I can smoke whatever I want and knowing spots and such is very useful
+## 25/7/2024
+- I've just finished playing for like, 7 hours straight. I just joined games and whenever I found someone who was decent or fun to play with I just added him and we kept going, slowly amassing 4 players this way.
+- Some of them good, some less, but I mainly concentrated on the vibes.
+- I've top-fragged with a 2+ K/D for 5 or 6 games in a row, absolutely demolishing the competition. 
+- When we started losing (We had 3 games with _really_ unfortunate teammates) this obviously slowed down, but I still top-fragged, maintaining positive K/D the whole way through.
+- I feel like I improved a whole lot from doing this, but I need to keep going.
+- My teammates complimented my calling skills and said that it helped them, which means I'm finally getting better on that front as well!
+## 27/7/2024
+- Yesterday was the first day during which I did not play or do anything since the beginning of this challenge, because my sleeping schedule was so messed up I was just tired. Over two weeks without missing a day? I'll take it!
+- I'd like to re-organize my lineups by where they land instead of where they are thrown from, so I could add many more variations of the same smokes. `I haven't done this yet`
