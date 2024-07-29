@@ -14,7 +14,7 @@ Crouch
 ![[FrontTruckSmoke.png]]
 ### Long Smoke
 Runthrow
-![[Pictures/Inferno/LongSmoke.png]]
+![[Lineups/Inferno/Pictures/T/LongSmoke.png]]
 ## Mid Lineups
 ### Library Smoke
 Jumpthrow

@@ -2,7 +2,7 @@
 ## Spawn Lineups
 ### Con Smoke
 Jumpthrow
-![[Pictures/Anubis/ConSmoke.png]]
+![[Lineups/Anubis/Pictures/T/ConSmoke.png]]
 ### Mid Smoke
 Jumpthrow
 ![[MidSmoke.png]]

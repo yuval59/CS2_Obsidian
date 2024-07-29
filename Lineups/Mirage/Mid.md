@@ -6,7 +6,7 @@ Hold D for about half a second before throwing
 ![[WindowSmoke.png]]
 ### Con Smoke
 Jumpthrow
-![[Pictures/Mirage/ConSmoke.png]]
+![[Lineups/Mirage/Pictures/T/ConSmoke.png]]
 ## Top-mid Lineups
 ### Window Smoke
 ![[TopMidWindowSmoke.png]]
