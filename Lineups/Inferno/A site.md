@@ -1,29 +1,36 @@
 # T Lineups
 ## Second Mid Lineups
 ### Library Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[LibrarySmoke.png]]
 ### Arch Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[ArchSmoke.png]]
 ### MOTO Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[MotoSmoke.png]]
 ### Front Truck Smoke
 Crouch
 ![[FrontTruckSmoke.png]]
 ### Long Smoke
-Runthrow
+> Runthrow
+
 ![[Lineups/Inferno/Pictures/T/LongSmoke.png]]
 ## Mid Lineups
 ### Library Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[LibrarySmokeMid.png]]
 ### Arch Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[ArchSmokeMid.png]]
 ### Long Flash
-Jumpthrow
+>Jumpthrow
+
 ![[LongFlash.png]]
 ### MOTO Smoke
 This smoke is super forgiving, just line up the general area.

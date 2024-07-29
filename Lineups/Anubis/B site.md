@@ -1,13 +1,16 @@
 # T Lineups
 ## Spawn Lineups
 ### Temple Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[TempleSmoke.jpg]]
 ### Cross Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[BCrossSmoke.png]]
 ### Lurk Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[Lineups/Anubis/Pictures/T/BLurkSmoke.png]]
 ## B-Main Lineups
 ### Long Smoke

@@ -4,7 +4,8 @@
 ## A Connector Smoke
 ![[AConSmoke.jpg]]
 ## Heaven Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[HeavenSmoke.png]]
 # CT Lineups
 # Retake Lineups

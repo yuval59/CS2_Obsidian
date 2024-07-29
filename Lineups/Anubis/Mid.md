@@ -1,20 +1,25 @@
 # T Lineups
 ## Spawn Lineups
 ### Con Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[Lineups/Anubis/Pictures/T/ConSmoke.png]]
 ### Mid Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[MidSmoke.png]]
 ## Mid Towards B Lineups
 ### A Connector Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[MidAConSmoke.png]]
 ## Mid Towards A Lineups
 ### Deep Mid Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[DeepMidSmoke.png]]
 ### Con Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[MidConSmoke.png]]
 # CT Lineups

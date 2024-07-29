@@ -6,7 +6,8 @@
 Alternative lineup
 ![[CTBoostSmoke2.png]]
 ### Coffins Smoke
-Jumpthrow
+>Jumpthrow
+
 ![[CoffinsSmoke.png]]
 # CT Lineups
 # Retake Lineups
