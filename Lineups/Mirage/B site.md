@@ -1,13 +1,13 @@
 # T Lineups
-## Spawn Lineups
-### Market Window Smoke
-Jumpthrow
-![[MarketWindowSmoke.png]]
-### Market Door Smoke
-Jumpthrow
-![[MarketDoorSmoke.png]]
-### Short Smoke
-Pretty unforgiving tbh
-![[ShortSmoke.png]]
+## Market Window Smoke
+### Back Alley
+>Jumpthrow
+
+![[MarketWindowSmokeBackAlley.png]]
+## Market Door Smoke
+### Back Alley
+>Jumpthrow
+
+![[MarketDoorSmokeBackAlley.png]]
 # CT Lineups
 # Retake Lineups

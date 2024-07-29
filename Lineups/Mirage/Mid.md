@@ -1,22 +1,20 @@
 # T Lineups
-## Spawn Lineups
-### Window Smoke
-Jumpthrow
-Hold D for about half a second before throwing
-![[WindowSmoke.png]]
-### Con Smoke
-Jumpthrow
-![[Lineups/Mirage/Pictures/T/ConSmoke.png]]
-## Top-mid Lineups
-### Window Smoke
-![[TopMidWindowSmoke.png]]
-### Short Smoke
-![[TopMidShortSmoke.png]]
-### Jungle Smoke
-![[TopMidJungleSmoke.png]]
-This is a more forgiving smoke, anything in this area should be fine.
-![[TopMidJungleSmokeForgiving.png]]
-### CT Smoke
-Jumpthrow
-![[TopMidCTSmoke.png]]
+## Window Smoke
+### Trashcan in T spawn
+> Aim for the first picture, walk right to the second picture and jumpthrow without stopping
+
+![[WindowSmokeTrashcan1.png]]
+![[WindowSmokeTrashcan2.png]]
+### Top Mid
+![[WindowSmokeTopMid.png]]
+## Con Smoke
+### Trashcan in T spawn
+>Jumpthrow
+
+![[ConSmokeTrashcan.png]]
+## Short Smoke
+### Top Mid
+![[ShortSmokeTopMid.png]]
+### Back Alley
+![[ShortSmokeBackAlley.png]]
 # CT Lineups
