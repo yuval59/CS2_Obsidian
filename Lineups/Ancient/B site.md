@@ -1,7 +1,8 @@
 # T Lineups
 ## Spawn Lineups
 ### Lurk Smoke
-Runthrow
+> Runthrow
+
 ![[BLurkSmoke.png]]
 # CT Lineups
 # Retake Lineups
